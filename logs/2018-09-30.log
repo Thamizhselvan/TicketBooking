@@ -1,0 +1,52 @@
+[2018-09-30 04:47:34pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 04:47:34pm] DEBUG: LoginController(86) select email from tbl_user_profile where mobile='9600800882' or email='tamil.oakdev@gmail.com'
+[2018-09-30 04:47:34pm] DEBUG: Persistence(55) insert into tbl_user_profile(user_name,mobile,email,password) value('Suganthi','9600800882','tamil.oakdev@gmail.com','test@123')
+[2018-09-30 04:47:34pm] INFO: Persistence(62) Record saved successfully!!!
+[2018-09-30 05:41:40pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 09:11:40pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 05:44:30pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 09:14:30pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 05:45:08pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 09:15:08pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:32:17pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:02:17pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:32:22pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:02:22pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:33:36pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:03:36pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:34:37pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:04:37pm] DEBUG: LoginController(99) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:35:32pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:05:32pm] DEBUG: LoginController(99) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 06:37:21pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 10:07:21pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 07:39:56pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:09:56pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 07:44:34pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:14:34pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 07:46:56pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:16:56pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 07:47:01pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:17:01pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 07:47:28pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:17:28pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 11:28:35pm] DEBUG: Persistence(95) update tbl_user_profile set password='' where  user_id='123' 
+[2018-09-30 11:29:33pm] DEBUG: Persistence(95) update tbl_user_profile set password='thamil@123' where  user_id='123' 
+[2018-09-30 11:31:57pm] DEBUG: Persistence(95) update tbl_user_profile set password='thamil@123' where  user_id='123' 
+[2018-09-30 11:31:57pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:31:57pm] INFO: Persistence(105) Record saved successfully!!!
+[2018-09-30 08:03:53pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:33:53pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 08:04:11pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:34:11pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-09-30 11:35:34pm] DEBUG: Persistence(95) update tbl_user_profile set password='suganthi' where  user_id='123' 
+[2018-09-30 11:35:34pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:35:34pm] INFO: Persistence(105) Record saved successfully!!!
+[2018-09-30 11:36:24pm] DEBUG: Persistence(95) update tbl_user_profile set password='test' where  user_id='123' 
+[2018-09-30 11:36:24pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:36:24pm] INFO: Persistence(105) Record saved successfully!!!
+[2018-09-30 11:39:52pm] DEBUG: Persistence(95) update tbl_user_profile set password='tharunika' where  user_id='123' 
+[2018-09-30 11:39:52pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:39:52pm] INFO: Persistence(105) Record saved successfully!!!
+[2018-09-30 08:10:03pm] INFO: database(24) Connected Successfully!!!
+[2018-09-30 11:40:03pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'

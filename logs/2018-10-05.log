@@ -1,0 +1,5 @@
+[2018-10-05 12:46:27pm] INFO: database(24) Connected Successfully!!!
+[2018-10-05 04:16:27pm] DEBUG: LoginController(100) select user_id,user_name,age,gender,address,city,state,zipcode,mobile,email,first_login from tbl_user_profile where user_id='123'
+[2018-10-05 04:17:24pm] DEBUG: Persistence(95) update tbl_user_profile set password='test@123' where  user_id='123' 
+[2018-10-05 04:17:24pm] INFO: database(24) Connected Successfully!!!
+[2018-10-05 04:17:24pm] INFO: Persistence(105) Record saved successfully!!!
